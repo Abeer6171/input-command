@@ -1,0 +1,5 @@
+print("input command")
+a=input("Enter the name - ")                
+a=input("Enter the age - ")                
+a=input("Enter the address - ")              
+a=input("Enter the hobbie - ")
